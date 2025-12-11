@@ -6,9 +6,15 @@
   },
   "users": [
     {
+      "login_name": "yenibel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44236926?v=4",
+      "admin": true
+    },
+    {
       "login_name": "thaisruiz",
       "avatar_url": "https://avatars.githubusercontent.com/u/44982945?v=4",
-      "admin": false
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
@@ -34,6 +40,27 @@
       "tags": []
     },
     "created_at": "2025-12-11T16:10:18.493Z",
-    "updated_at": "2025-12-11T16:10:18.493Z"
-  }
+    "updated_at": "2025-12-11T16:10:18.493Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "a9d55954-3242-4618-a463-4dd94ca13073": {
+      "content": [],
+      "created_at": "2025-12-11T16:10:18.518Z",
+      "created_by": "yenibel",
+      "title": "Title Test",
+      "updated_at": "2025-12-11T16:10:18.518Z",
+      "updated_by": "yenibel",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "a9d55954-3242-4618-a463-4dd94ca13073"
+  ]
 }
