@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "978baa1c-11f1-4128-b628-0deb47ca9cf6",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-12-11T16:11:41.175Z",
   "created_by": "yenibel",
   "title": "Afro-Indigenous Lives in Los Valles del Tuy, Venezuela",
   "slug": "afro-indigenous-lives-in-los-valles-del-tuy",
-  "updated_at": "2025-12-11T16:11:41.175Z",
+  "updated_at": "2025-12-11T16:12:02.321Z",
   "updated_by": "yenibel",
   "parent": "a9d55954-3242-4618-a463-4dd94ca13073",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "978baa1c-11f1-4128-b628-0deb47ca9cf6"
   }
