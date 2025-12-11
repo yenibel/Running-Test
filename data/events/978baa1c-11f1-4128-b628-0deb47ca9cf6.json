@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "b5e3deb3-704b-4923-b0eb-8c7e026c062c": {
+      "label": "Carmen Andrea Bernal's Oral History",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/details/entrevista-a-carmen-andrea-bernal",
+      "duration": 4935
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Afro-Indigenous Lives in Los Valles del Tuy, Venezuela",
+  "created_at": "2025-12-11T16:11:41.013Z",
+  "created_by": "yenibel",
+  "updated_at": "2025-12-11T16:11:41.013Z",
+  "updated_by": "yenibel"
+}
