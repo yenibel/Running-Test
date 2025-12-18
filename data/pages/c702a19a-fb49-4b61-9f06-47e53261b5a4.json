@@ -138,7 +138,6 @@
     }
   ],
   "title": "Introduction",
-  "parent": "eb9cfb97-049d-4edb-9f1d-294975c86b10",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
@@ -146,6 +145,6 @@
   "slug": "introduction",
   "created_at": "2025-12-18T07:23:37.820Z",
   "created_by": "yenibel",
-  "updated_at": "2025-12-18T08:00:17.051Z",
+  "updated_at": "2025-12-18T16:46:46.345Z",
   "updated_by": "yenibel"
 }
