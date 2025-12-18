@@ -1,0 +1,131 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Project Development",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "heading-four",
+      "children": [
+        {
+          "text": "This project was developed by Yenibel Ruiz, Journalist and PhD in Cultural Studies at the AVAnnotate Teaching and Research Fellowships for Fall 2025, in collaboration with Thais Ruiz, research assistant."
+        }
+      ]
+    },
+    {
+      "type": "heading-four",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Images",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "heading-four",
+      "children": [
+        {
+          "text": "Images included on individual photos, webpages were compiled by ..."
+        }
+      ]
+    },
+    {
+      "type": "heading-four",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Financing and Tech Support",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "heading-four",
+      "children": [
+        {
+          "text": "Financing and technical support for the project was provided by the AVAnnotate Mellon Foundation funded project."
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "AI Use",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "heading-four",
+      "children": [
+        {
+          "text": "Segment summaries and annotations were created using NotebookLM, and were closely reviewed for accuracy."
+        }
+      ]
+    },
+    {
+      "type": "heading-four",
+      "children": [
+        {
+          "text": "Transcript and its translation from Spanish into English were conducted manually, with assistance from ChatGPT 5.1, in order to accurately reflect the rural accent and local terminology and expressions used in the original interview."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "About",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "about",
+  "created_at": "2025-12-18T17:06:09.847Z",
+  "created_by": "yenibel",
+  "updated_at": "2025-12-18T17:06:09.847Z",
+  "updated_by": "yenibel"
+}
