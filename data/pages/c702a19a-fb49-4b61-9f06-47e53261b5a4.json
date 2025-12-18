@@ -1,0 +1,110 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/details/abuela-carmen-a",
+      "caption": "Photo Carmen Andrea Bernal - By Yenibel Ruiz",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Carmen Andrea Bernal, my grandmother, of Afro-Indigenous descent, was born in 1912 in "
+        },
+        {
+          "text": "Los Valles del Tuy",
+          "italic": true
+        },
+        {
+          "text": ", Venezuela. This region, located in the north-central part of the country, was crucial to Venezuela’s agricultural production at the turn of the 19th and 20th centuries. It also served as a core site where the wealthiest sectors of the colonial economy and agro-export activities were established. As a result, "
+        },
+        {
+          "text": "Los Valles del Tuy",
+          "italic": true
+        },
+        {
+          "text": " sustained a significant Afro-Venezuelan and Indigenous presence during this period, both in terms of population density and in their essential contributions to the economic development of the Province of Caracas (Molina Castro, 2008)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Within this context, the oral history of Carmen Andrea Bernal provides concrete historical examples that support a broader investigation into structural inequalities, mobility, gender discrimination, and racism in Venezuela—particularly the role of non-white women within colonial and patriarchal social structures. Her family’s marginalized position was directly shaped by these hierarchies, reflected in her everyday struggles: limited access to healthcare and schooling, and the unequal burden of serving as the primary caregiver not only to her own children but to others in the family."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Her stories—such as accounts of hauntings along "
+        },
+        {
+          "text": "El Camino de los Indios",
+          "italic": true
+        },
+        {
+          "text": "—underscore the discrimination experienced by Afro-descendant and Indigenous communities in these rural, historically colonized areas. Moreover, her testimony reveals how economic instability and rigid gender norms forced constant displacement, restricted her mother’s labor to domestic work, and constrained Mirabal’s own life and educational opportunities. At the same time, it documents her active “strategies of resistance” against relentless mobility and social policing."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Altogether, this account illuminates the deeply rooted gendered and racialized expectations that shaped the lives of poor, non-elite Venezuelan women throughout the twentieth century."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Introduction",
+  "parent": "eb9cfb97-049d-4edb-9f1d-294975c86b10",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction",
+  "created_at": "2025-12-18T07:23:37.820Z",
+  "created_by": "yenibel",
+  "updated_at": "2025-12-18T07:23:37.820Z",
+  "updated_by": "yenibel"
+}
