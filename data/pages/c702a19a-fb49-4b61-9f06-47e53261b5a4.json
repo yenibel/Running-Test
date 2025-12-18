@@ -17,14 +17,24 @@
       ]
     },
     {
-      "type": "image",
-      "url": "https://archive.org/details/abuela-carmen-a",
-      "caption": "Photo Carmen Andrea Bernal - By Yenibel Ruiz",
+      "type": "paragraph",
       "children": [
         {
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/abuela-carmen-a/Abuela%20CarmenA.jpg",
+      "caption": "Carmen A. Bernal - Photo by Yenibel Ruiz",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 65,
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -105,6 +115,6 @@
   "slug": "introduction",
   "created_at": "2025-12-18T07:23:37.820Z",
   "created_by": "yenibel",
-  "updated_at": "2025-12-18T07:23:37.820Z",
+  "updated_at": "2025-12-18T07:37:40.512Z",
   "updated_by": "yenibel"
 }
