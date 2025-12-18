@@ -1,0 +1,97 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Los Valles del Tuy",
+          "italic": true
+        },
+        {
+          "text": " is one of the subregions of the state of Miranda. As early as the 18th century, it constituted a geographic, economic, and sociocultural axis where, after the extermination of most of the Indigenous population, enslaved labor was brought in to work the colonists’ haciendas (Ramos Guédez, 2005, p. 160). This region was later devastated by the War of Independence. The consequence was many years of poverty and brutal devastation. The scholar Diógenes Molina Castro (2011) described that moment like:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "code-block",
+      "children": [
+        {
+          "text": "<p style=\"text-indent: 40px;\">"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Así, en el Tuy y el Guaire, como en muchos otros valles y cantones productivos de la Provincia de Caracas, empezarán los años aciagos de la más brutal pobreza colectiva, de parálisis productiva y de saqueo, como común acto militar, junto con las propias “negradas” huyendo desesperadas. (Molina Castro, 2011, p. x)"
+        }
+      ]
+    },
+    {
+      "type": "code-block",
+      "children": [
+        {
+          "text": "</p>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nAttempting to rebuild the region under the same economic terms, seeking to remain "
+        },
+        {
+          "text": "Los Valles del Tuy",
+          "italic": true
+        },
+        {
+          "text": " as an important supplier of food for the capital city of Caracas, afro-descendant and Indigenous communities continued to occupy the lowest rung of the social hierarchy, working as labor in the agriculture sector. (Molina Castro, 2011, p. x). Even though this area, "
+        },
+        {
+          "text": "Los Valles del Tuy",
+          "italic": true
+        },
+        {
+          "text": ", was a site of maroon resistance in the 19th century, racial discrimination persists today as part of the colonial legacy. However, different types of resistance percolate through the actions of the women."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Context: Los Valles del Tuy",
+  "parent": "eb9cfb97-049d-4edb-9f1d-294975c86b10",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "context-los-valles-del-tuy",
+  "created_at": "2025-12-18T07:48:01.344Z",
+  "created_by": "yenibel",
+  "updated_at": "2025-12-18T07:48:01.344Z",
+  "updated_by": "yenibel"
+}
