@@ -21,27 +21,21 @@
   "project": {
     "github_org": "yenibel",
     "is_private": false,
-    "title": "Title Test",
-    "description": "Description Test",
+    "title": "Afro-Indigenous Lives in Los Valles del Tuy, Venezuela: Annotating Carmen Andrea Bernal Oral History Archive",
+    "description": "Carmen Andrea Bernal, an Afro-Indigenous woman born in 1912 in Los Valles del Tuy, Venezuela, grew up in a region central to the country’s agricultural economy and marked by strong colonial legacies. Her oral history offers a valuable lens into the structural inequalities, racial hierarchies, and gender discrimination that shaped the lives of non-white women in rural Venezuela. Through her experiences of limited access to education and healthcare, economic instability, caregiving burdens, and forced mobility, Mirabal’s testimony reveals both the constraints imposed by patriarchal and colonial systems and the everyday strategies of resistance developed by marginalized women throughout the twentieth century.",
     "language": "en",
     "slug": "Running-Test",
     "creator": "yenibel",
     "authors": "Yenibel Ruiz Mirabal (Journalist / Ph.D. Cultural Studies)",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "thaisruiz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44982945?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2025-12-11T16:10:18.493Z",
-    "updated_at": "2025-12-11T17:44:49.035Z",
+    "updated_at": "2025-12-18T06:32:58.489Z",
     "generate_pages_site": true
   },
   "annotations": {},
